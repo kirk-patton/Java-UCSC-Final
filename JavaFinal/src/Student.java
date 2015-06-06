@@ -59,7 +59,6 @@ public class Student {
 			total += score;
 		}
 		
-		char letterlGrade;
 		if( total >= 90){
 			letterGrade = 'A'; 
 		}
